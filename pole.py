@@ -21,4 +21,8 @@ print(arrays[0])
 
 for x in range(6):
     print(x+1, arrays[x])
+
+
+for x in range(len(arrays)):
+
     
